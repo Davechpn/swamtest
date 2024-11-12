@@ -1,0 +1,13 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.7.0
+2 info using node@v18.20.4
+3 silly config:load:file:C:\Users\chipu\AppData\Roaming\nvm\v18.20.4\node_modules\npm\npmrc
+4 silly config:load:file:C:\Users\chipu\test-app\.npmrc
+5 silly config:load:file:C:\Users\chipu\.npmrc
+6 silly config:load:file:C:\Program Files\nodejs\etc\npmrc
+7 verbose title npm
+8 verbose argv "--cache" "-verify"
+9 verbose logfile logs-max:10 dir:C:\Users\chipu\test-app\-verify\_logs\2024-11-10T12_35_51_815Z-
+10 verbose logfile C:\Users\chipu\test-app\-verify\_logs\2024-11-10T12_35_51_815Z-debug-0.log
+11 verbose exit 1
+12 verbose code 1
